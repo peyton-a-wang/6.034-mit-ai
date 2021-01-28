@@ -1,6 +1,6 @@
 # 6.034: MIT Artificial Intelligence Labs
 
-This repository contains all the labs from MIT's Artificial Course (6.034). 
+This repository contains all the labs from MIT's Artificial Course (6.034) in Fall 2020. 
 
 - [Lab 1: Search](https://github.com/peyton-a-wang/6.034-mit-ai/blob/master/lab1/lab1.py)
 - [Lab 2: Games](https://github.com/peyton-a-wang/6.034-mit-ai/blob/master/lab2/lab2.py)
